@@ -25,25 +25,24 @@ nav ul li:nth-child(2){
 }
 
 .left-side{
-    margin-right: 3%;
+     padding-right: 3%;
 }
 
 .HW {
     background-color: rgb(238, 238, 238);
 }
 
-.right-nav-bar{
+.right-nav-bar div {
     background-color: rgb(238, 238, 238);
-    max-height: 60vh;
 }
 
 .right-nav-bar ul{
     list-style-type: none;
-    margin: 15px;
+    padding-top: 0 15px;
 }
 
 .right-nav-bar ul li{
-    margin: 10px 20px;
+    padding: 10px 20px;
     color: rgb(84, 146, 233);
 }
 
