@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    color: white;
+    background: rgb(33, 33, 33);
+}
+
+nav ul{
+    list-style-type: none;
+    color: gray;
+}
+
+nav ul li{
+    padding: 10px;
+    cursor: pointer;
+}
+
+nav ul li:nth-child(2){
+    background: #000;
+    color: white;
+}
+
+.left-side{
+    margin-right: 3%;
+}
+
+.HW {
+    background-color: rgb(238, 238, 238);
+}
+
+.right-nav-bar{
+    background-color: rgb(238, 238, 238);
+    max-height: 60vh;
+}
+
+.right-nav-bar ul{
+    list-style-type: none;
+    margin: 15px;
+}
+
+.right-nav-bar ul li{
+    margin: 10px 20px;
+    color: rgb(84, 146, 233);
+}
+
+.HW .content {
+    padding: 7% 15% 3% 7%;
+}
+
+.HW .content h1{
+    font-size: 60px;
+}
+
+.HW .content p{
+    font-size: 16px;
+}
+
+
+.cards{
+    padding: 2% 0;
+}
